@@ -42,7 +42,7 @@ int main()
   return 0;
 }
 ```
-** Output **
+**Output**
 ```
 5 -10 2 6
 ```
